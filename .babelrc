@@ -1,0 +1,21 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "root": [
+                    "."
+                ]
+            }
+        ]
+    ],
+    "env": {
+        "development": {
+            "sourceMaps": "inline",
+            "retainLines": true
+        }
+    }
+}
