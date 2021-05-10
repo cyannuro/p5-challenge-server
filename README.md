@@ -2,12 +2,12 @@
 
 Client repo: https://github.com/cyannuro/p5-challenge-client
 
-##### Prerequisites:
+### Prerequisites:
 
 * NodeJS (v12+ to run) and yarn (or npm instead)
 * PostgreSQL
 
-##### Setting up:
+### Setting up:
 
 ```sh
 git clone https://github.com/cyannuro/p5-challenge-server.git
